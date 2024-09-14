@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M66.7151 512C66.7151 266.076 266.076 66.7151 512 66.7151C757.924 66.7151 957.285 266.076 957.285 512C957.285 757.924 757.924 957.285 512 957.285C266.076 957.285 66.7151 757.924 66.7151 512Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="50"/>
+<g opacity="1">
+<path d="M278.374 443.778C278.374 406.099 308.919 375.555 346.597 375.555C384.275 375.555 414.819 406.099 414.819 443.778C414.819 481.456 384.275 512 346.597 512C308.919 512 278.374 481.456 278.374 443.778Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M609.181 443.778C609.181 406.099 639.725 375.555 677.403 375.555C715.081 375.555 745.626 406.099 745.626 443.778C745.626 481.456 715.081 512 677.403 512C639.725 512 609.181 481.456 609.181 443.778Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<path d="M730.913 726.16C687.546 699.417 334.859 701.067 293.087 729.815" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="50"/>
+<g opacity="1">
+<g opacity="1">
+<path d="M375.928 278.324C375.928 278.324 372.254 305.887 330.483 328.346C288.712 350.804 253.975 343.305 253.975 343.305" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="20"/>
+<path d="M375.692 277.885C375.692 277.885 364.73 288.958 322.959 311.416C281.187 333.874 253.975 343.305 253.975 343.305" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="20"/>
+</g>
+<g opacity="1">
+<path d="M648.072 278.324C648.072 278.324 651.746 305.887 693.517 328.346C735.288 350.804 770.025 343.305 770.025 343.305" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="20"/>
+<path d="M648.308 277.885C648.308 277.885 659.27 288.958 701.041 311.416C742.813 333.874 770.025 343.305 770.025 343.305" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter" stroke-width="20"/>
+</g>
+</g>
+</g>
+</svg>

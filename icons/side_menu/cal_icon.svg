@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M199.012 65.0759L824.988 65.0759C901.398 65.0759 963.341 127.018 963.341 203.428L963.341 820.572C963.341 896.982 901.398 958.924 824.988 958.924L199.012 958.924C122.602 958.924 60.6591 896.982 60.6591 820.572L60.6591 203.428C60.6591 127.018 122.602 65.0759 199.012 65.0759Z" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="30"/>
+<path d="M60.6591 223.594L963.341 223.594" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+<g opacity="1">
+<path d="M225.806 223.594L228.149 958.796" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+<path d="M415.821 223.594L418.164 958.796" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+<path d="M605.836 223.723L608.179 958.924" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+<path d="M795.851 223.723L798.194 958.924" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+</g>
+<g opacity="1">
+<path d="M60.6609 781.482L963.339 781.064" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+<path d="M60.6593 591.468L963.341 591.05" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+<path d="M60.6603 401.455L963.34 401.036" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter" stroke-width="25"/>
+</g>
+</g>
+</svg>
