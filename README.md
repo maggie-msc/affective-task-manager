@@ -1,4 +1,16 @@
-# affective-task-manager
+# 'Affective' Task Manager
+
+## Description
+The 'affective' web task manager is desgined for students who need a task manager that also implements the management of their moods.
+As a task manager, the web app can create tasks, collabrate on tasks with other users, and add detail to their tasks.
+As a 'mood' manager, the web app can track moods the user enters, track how the user feels about completeing a certain tasks, and suggest action points for the user to either improve their moods to become more positive or maintain a positive mood.
+
+## Languages
+HTML
+CSS
+JavaScript
+PHP
+SQL
 
 ## How to download and run the code
 
