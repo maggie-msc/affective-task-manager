@@ -5,6 +5,9 @@ The 'affective' web task manager is designed for students in further and higher 
 As a task manager, the web app can create tasks, collabrate on tasks with other users, and add detail to their tasks.
 As a 'mood' manager, the web app can track moods the user enters, track how the user feels about completeing a certain tasks, and suggest action points for the user to either improve their moods to become more positive or maintain a positive mood.
 
+## Aim of the Project
+To improve the web task manager with better functionality, design, and have a more structured code base.
+
 ## Languages
 HTML
 CSS
